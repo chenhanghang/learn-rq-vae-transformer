@@ -2,7 +2,7 @@
 The official implementation of ["Autoregressive Image Generation using Residual Quantization"](https://arxiv.org/abs/2203.01941)  
 Doyup Lee*, Chiheon Kim*, Saehoon Kim, Minsu Cho, Wook-Shin Han (\* Equal contribution)  
 **CVPR 2022**
-
+学用用！
 <center><img src="assets/figures/teaser.png" height="256"></center>
 
 The examples of generated images by RQ-Transformer using class conditions and text conditions.   
